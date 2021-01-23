@@ -4,3 +4,5 @@ An important topic in the autonomous driving research is the development of mane
 The following link (https://drive.google.com/file/d/1iGc820O_qeBSrWHbwhPTiTyby_HupM-_/view) shows how the vehicle performs the entering in the roundabout.
 
 Further details about this work are available at the following link: https://arxiv.org/abs/2001.00786
+
+CONFERENCE: International Conference on Agents and Artificial Intelligence 2020 (ICAART 2020)
